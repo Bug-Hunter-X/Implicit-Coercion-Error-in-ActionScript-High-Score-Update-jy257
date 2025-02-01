@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in ActionScript 3 related to implicit type coercion.  The bug occurs when attempting to update a high score variable that might not be properly initialized as a Number. The solution illustrates how to explicitly type the variable to avoid this issue and provide more robust code.
